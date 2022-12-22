@@ -1,7 +1,7 @@
 Hypervault
 ==========
 
-Live App: <https://hypervault.github.io/>
+Live App: <http://vault.drewgottlieb.net/>
 
 The source is in the `src` directory, and the deployment artifacts are in the root directory (as required by Github Pages).
 
